@@ -1,3 +1,5 @@
 /archive
 .DS_Store
 main-checkpoint.ipynb
+.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
