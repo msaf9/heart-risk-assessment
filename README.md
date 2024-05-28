@@ -108,6 +108,6 @@ The following steps are involved in the modeling process:
 
 ## Results
 
-The final model achieved an accuracy of `X%` on the test set. Detailed evaluation metrics and plots are provided in the notebook and script.
+The final model achieved an accuracy of `87.39%` on the test set. Detailed evaluation metrics and plots are provided in the notebook and script.
 
 ## License
