@@ -71,7 +71,7 @@ python heart_disease_prediction.py
 
 ## Project Structure
 
-```
+```tree
 HeartDiseasePrediction/
 ├── data/
 │   └── heart_disease_data.csv
