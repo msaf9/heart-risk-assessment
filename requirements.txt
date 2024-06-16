@@ -1,3 +1,4 @@
+# Librabies required for the project
 pandas
 numpy
 matplotlib
