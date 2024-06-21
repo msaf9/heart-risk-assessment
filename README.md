@@ -92,8 +92,6 @@ scripts/: Python scripts for data preprocessing, model training, and evaluation.
 
 models/: Saved trained models.
 
-README.md: Project documentation.
-
 requirements.txt: List of required libraries.
 
 ## Modeling
