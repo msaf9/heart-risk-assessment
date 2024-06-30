@@ -60,13 +60,13 @@ cd HeartDiseasePrediction
 2. Run the Jupyter Notebook or Python script to see the data processing, model training, and evaluation:
 
 ```bash
-jupyter notebook heart_disease_prediction.ipynb
+jupyter notebook notebooks/heart_disease_prediction.ipynb
 ```
 
 3. To preprocess data, train models, and make predictions, run:
 
 ```bash
-python heart_disease_prediction.py
+python scripts/heart_disease_prediction.py
 ```
 
 ## Project Structure
